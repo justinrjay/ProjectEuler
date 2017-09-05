@@ -1,0 +1,8 @@
+C:\Users\Fonix\AppData\Local\Temporary Projects\ProjectEuler\bin\Release\ProjectEuler.exe
+C:\Users\Fonix\AppData\Local\Temporary Projects\ProjectEuler\bin\Release\ProjectEuler.pdb
+C:\Users\Fonix\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler.exe
+C:\Users\Fonix\AppData\Local\Temporary Projects\ProjectEuler\obj\x86\Release\ProjectEuler.pdb
+C:\Users\Fonix\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.exe
+C:\Users\Fonix\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.pdb
+C:\Users\Fonix\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.exe
+C:\Users\Fonix\documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.pdb
